@@ -2,7 +2,8 @@
 ### Modularization 
 Modularization is a practice of organizing a codebase into loosely coupled and self contained parts. Each part is a module. Each module is independent and serves a clear purpose. By dividing a problem into smaller and easier to solve subproblems, you reduce the complexity of designing and maintaining a large system.
 ### MVVM Design Pattern With Compose!
-![mvvm](https://github.com/user-attachments/assets/f43f116b-d676-412c-9a07-f08595aadffa)
+![mvvm](https://github.com/user-attachments/assets/76c67e00-1455-4e55-9011-68feac59e51b)
+
 
 ### Jetpack Architecture Components 
 
@@ -24,11 +25,17 @@ As your app grows, MVVM’s modular structure and Jetpack Compose’s composable
 ## Code Readability
 Declarative UI code in Jetpack Compose is highly readable, making it easier for developers to understand and collaborate on projects.
 ## Screenshots
-![pages_screens](https://github.com/user-attachments/assets/36950a29-ec00-4911-874d-bbfaf2e94832)
+![pages_screens](https://github.com/user-attachments/assets/dc2946b5-70be-4484-b9ad-d27d4df1e6f5)
+
 ## Demo!
-https://github.com/user-attachments/assets/5328a067-ea49-47cd-93a0-0e226d3b04ee
+
+
+https://github.com/user-attachments/assets/9ee5c581-6245-44ed-885d-027ca580f6f7
+
+
 ## Project Structure And Packages!
-![project_struc](https://github.com/user-attachments/assets/2e5daf1f-fd9d-4e9b-afd9-3e2b14864f27)
+![project_struc](https://github.com/user-attachments/assets/ae7bcb2b-7060-48fb-a448-2e8fcbd8675b)
+
 
 ## Git Clone 
 ### The git clone command is used to create a copy of a specific repository or branch within a repository.
