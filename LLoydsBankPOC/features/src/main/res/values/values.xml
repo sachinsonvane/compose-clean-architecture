@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="logo_title">LBG Test</string>
+    <string name="books_title">Books</string>
+    <string name="book_details">Book Details</string>
+    <string name="back_to_book_page">Back To Books</string>
+    <string name="record_not_found">Record not found!!</string>
+</resources>

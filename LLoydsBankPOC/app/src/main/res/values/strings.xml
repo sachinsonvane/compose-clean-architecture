@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LLoydsBankPOC</string>
+    <string name="books_tab_title">Books</string>
+    <string name="weasley_tab_title">Weasley</string>
+    <string name="spells_tab_title">Spells</string>
+    <string name="dummy1_title">dummy1</string>
+    <string name="dummy2_title">dummy2</string>
+    <string name="logo_title">LBG Test</string>
+    <string name="books_name">Books</string>
+    <string name="spells_name">Spells</string>
+    <string name="weasley_name">Weasley</string>
+    <string name="error_str">Error!</string>
+    <string name="data_not_found_str">Data not found!</string>
+    <string name="api_response_null_str">API null response!</string>
+    <string name="api_network_error_str">API network error!</string>
+    <string name="error_message">Error, %s!</string>
+    <string name="retry">retry</string>
+    <string name="back">Back</string>
+</resources>
